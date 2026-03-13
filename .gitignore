@@ -3,4 +3,6 @@ docs/build/*
 *.ipynb_checkpoints
 *.egg-info
 .DS_Store
-__pycache__
+__pycache__/
+.idea/
+docs/source/tmp_*
